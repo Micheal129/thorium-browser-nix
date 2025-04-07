@@ -2,7 +2,7 @@
 
 pkgs.stdenv.mkDerivation rec {
   pname = "thorium-browser";
-  version = "126.0.6478.231";
+  version = "130.0.6723.174";
 # https://github.com/Alex313031/thorium/releases/download/M124.0.6367.218/thorium-browser_124.0.6367.218_AVX.deb
 # https://github.com/Alex313031/thorium/releases/download/M126.0.6478.231/thorium-browser_126.0.6478.231_AVX.deb
   src = pkgs.fetchurl {
