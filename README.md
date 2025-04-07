@@ -3,6 +3,7 @@
 Nix flake for Thorium Browser
 
 This package is meant to be used until the official package is available in nixpkgs. See [progress](https://github.com/NixOS/nixpkgs/pull/261718)
+LOL no its not, the pull request was blocked,
 
 # Usage 
 
