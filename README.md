@@ -10,7 +10,7 @@ This package is meant to be used until the official package is available in nixp
 # flake.nix
 
 {
-  inputs.thorium-browser.url = "git+https://codeberg.org/Tomkoid/thorium-browser-nix";
+  inputs.thorium-browser.url = "git+https://github.com/Micheal129/thorium-browser-nix";
   # ...
 
   outputs = {nixpkgs, ...} @ inputs: {
